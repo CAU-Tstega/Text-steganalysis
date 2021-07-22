@@ -61,8 +61,7 @@ class MyData(data.Dataset):
 		super(MyData, self).__init__(examples, fields, **kwargs)
 
 	@classmethod
-	def split(cls, text_field, label_field, args, state, \
-											shuffle=True, **kwargs):
+	def split(cls, text_field, label_field, args, state, shuffle=True, **kwargs):
 		if state is 'train':
 			print('loading the training data...')
 			cover_path = args.train_cover_dir
