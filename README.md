@@ -28,3 +28,10 @@ author={Wanli Peng, Jinyu Zhang, Yiming Xue, Zhenghong Yang}, <br>
 booktitle={Signal Processing Letter (SPL)}, <br>
 year={2021} <br>
 }
+
+@inproceedings{Wen2019SPL, <br>
+title={Convolutional Neural Network Based Text Steganalysis}, <br>
+author={Wen Juan, Xuejing Zhou, Ping Zhong, Yiming Xue}, <br>
+booktitle={Signal Processing Letter (SPL)}, <br>
+year={2019} <br>
+}
