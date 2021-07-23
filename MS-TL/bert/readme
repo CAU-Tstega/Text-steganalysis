@@ -1,0 +1,9 @@
+
+
+==========================================================
+===================Requirements===========================
+
+You shoud download the pre-trained parameters of "based_uncased" bert, which contains "config.json"; "pytorch_model.bin"; "vocab.txt";
+
+=========================================================
+=========================================================
