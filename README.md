@@ -21,10 +21,10 @@
 
 ## Cite
 
-##### If this codebase is hlepful, please cite the following papers:
-##### @inproceedings{Shen2020SAAC,
-#####  title={Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding},
-#####  author={Jiaming Shen and Heng Ji and Jiawei Han},
-#####  booktitle={EMNLP},
-##### year={2020}
-##### }
+### If this codebase is hlepful, please cite the following papers:
+@inproceedings{Peng2021SPL,
+title={real-time text steganalysis based on multi-stage transfer learning},
+author={Wanli Peng, Jinyu Zhang, Yiming Xue, Zhenghong Yang},
+booktitle={Signal Processing Letter (SPL)},
+year={2021}
+}
