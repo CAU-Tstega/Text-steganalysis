@@ -6,3 +6,6 @@
 
 ##### The codebase is heavily inspired by the [Pytorch implementation for text classification.](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 
+## steganalysis methods
+
+###### LS_CNN(https://ieeexplore.ieee.org/abstract/document/8625512) 
