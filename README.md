@@ -23,8 +23,8 @@
 
 ### If this codebase is hlepful, please cite the following papers:
 @inproceedings{Peng2021SPL,
-title={real-time text steganalysis based on multi-stage transfer learning},
-author={Wanli Peng, Jinyu Zhang, Yiming Xue, Zhenghong Yang},
-booktitle={Signal Processing Letter (SPL)},
-year={2021}
-}
+    title={real-time text steganalysis based on multi-stage transfer learning},
+    author={Wanli Peng, Jinyu Zhang, Yiming Xue, Zhenghong Yang},
+    booktitle={Signal Processing Letter (SPL)},
+    year={2021}
+    }
