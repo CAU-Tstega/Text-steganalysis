@@ -18,3 +18,13 @@
 ###### R-BiLSTM-C (https://ieeexplore.ieee.org/abstract/document/8903243)
 ###### BiLSTM-Dense (https://dl.acm.org/doi/abs/10.1145/3369412.3395067)
 ###### MS-TL (https://ieeexplore.ieee.org/abstract/document/9484749/) (https://www.researchgate.net/profile/Wanli-Peng-2/research)
+
+## Cite
+
+##### If this codebase is hlepful, please cite the following papers:
+##### @inproceedings{Shen2020SAAC,
+#####  title={Near-imperceptible Neural Linguistic Steganography via Self-Adjusting Arithmetic Coding},
+#####  author={Jiaming Shen and Heng Ji and Jiawei Han},
+#####  booktitle={EMNLP},
+##### year={2020}
+##### }
