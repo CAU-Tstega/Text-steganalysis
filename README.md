@@ -13,7 +13,7 @@
 
 ## Steganalysis methods
 
-###### LS_CNN (https://ieeexplore.ieee.org/abstract/document/8625512) 
+###### LS-CNN (https://ieeexplore.ieee.org/abstract/document/8625512) 
 ###### TS-BiRNN (https://ieeexplore.ieee.org/abstract/document/8727932)
 ###### R-BiLSTM-C (https://ieeexplore.ieee.org/abstract/document/8903243)
 ###### BiLSTM-Dense (https://dl.acm.org/doi/abs/10.1145/3369412.3395067)
