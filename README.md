@@ -8,6 +8,8 @@
 
 ##### The codebase is heavily inspired by the [Pytorch implementation for text classification.](https://github.com/649453932/Chinese-Text-Classification-Pytorch)
 
+##### If you have any questions, please connect us immediately by the e-mail (hunanpwl@cau.edu.cn)
+
 
 
 
