@@ -111,7 +111,7 @@ if args.load_dir is not None:
 		train.train(train_iter, valid_iter, args, target_model, teacher_model)
 	
 else:
-	print("Fine-Turning Training...")
+	print("Incorporating Features...")
 	pretrained_Bilstm_dir = 'snapshot/BERT-BiLSTM/movie_2bpw/best_steps_1300.pt'
 	pretrained_CNN_dir = 'snapshot/BERT-CNN/movie_2bpw/best_steps_2400.pt'
 
